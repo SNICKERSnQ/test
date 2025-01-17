@@ -20,7 +20,7 @@ APPLE_COLOR = (100, 52, 52)
 SNAKE_COLOR = (0, 0, 0)
 
 # Скорость игры:
-SPEED = 5
+SPEED = 20
 
 # Настройка игрового окна:
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT), 0, 32)
